@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DAWN",
+  "base_artist": "E.scene",
+  "createdAt": "2026-02-08T07:05:47.242381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn - Radio Edit",
+      "artist": "ZAYN feat. Sia",
+      "has_synced": true,
+      "path": "select/01_Dusk_Till_Dawn_-_Radio_Edit_ZAYN_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (Radio Edit)",
+      "artist": "ZAYN, Sia",
+      "has_synced": true,
+      "path": "select/02_Dusk_Till_Dawn_(Radio_Edit)_ZAYN,_Sia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dusk to Dawn on Lygon Street",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/03_Dusk_to_Dawn_on_Lygon_Street_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dusk to Dawn on Lygon Street",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/04_Dusk_to_Dawn_on_Lygon_Street_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Delta Dawn",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/05_Delta_Dawn_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Delta Dawn (1990 \"Encore\" Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/06_Delta_Dawn_(1990__Encore__Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Delta Dawn (Single Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/07_Delta_Dawn_(Single_Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Delta Dawn (Single Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/08_Delta_Dawn_(Single_Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break Of Dawn",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/09_Break_Of_Dawn_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To Da Break Of Dawn",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/10_To_Da_Break_Of_Dawn_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "At Dawn",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/11_At_Dawn_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dawn",
+      "artist": "Mr. Lif",
+      "has_synced": false,
+      "path": "select/12_Dawn_Mr._Lif.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dawn Chorus",
+      "artist": "Modern English",
+      "has_synced": false,
+      "path": "select/13_Dawn_Chorus_Modern_English.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAWN",
+      "artist": "E.scene",
+      "has_synced": false,
+      "path": "select/pl_01_DAWN_E.scene.txt"
+    }
+  ]
+}
